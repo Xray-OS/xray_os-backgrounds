@@ -1,5 +1,3 @@
-# xray_os-backgrounds
+## xray_os-backgrounds(DEPRECATED)
 
-##[THIS REPO HAS BEEN DEPRECATED]
-
-This are the standard backgrounds used for Xray_OS
+This used to be the standard backgrounds used for Xray_OS
